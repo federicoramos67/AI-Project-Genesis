@@ -73,3 +73,7 @@ Fuera de alcance a propósito (ver [ADR-0001](docs/adr/ADR-0001.md) y
 loop de descubrimiento interactivo, UI, multi-tenant, deploy a VPS, casos de uso adicionales más allá
 de la veterinaria, gestión de sprints, y una vuelta dedicada al prompt de preguntas del Analista (el
 few-shot mejoró historias y backlog, pero no las preguntas mismas).
+
+## Licencia
+
+[MIT](LICENSE)
